@@ -8,7 +8,7 @@
 
 🌱 Currently expanding knowledge in <span style="color:#0d47a1;">Advanced Data Science, Computer Science, JavaScript, Python</span>
 
-I'm passionate about data science and thrive on utilizing R and R Shiny to create insightful visualizations. My goal is to leverage statistical programming for holistic data analysis.
+🤝 A Versatile Team Player and Leader: Comfortable working independently and always striving to Optimize Data Processes, Automate Analysis, and Deliver Interactive Reporting
 
 ### Get in Touch
 
