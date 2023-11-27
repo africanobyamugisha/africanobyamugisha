@@ -1,8 +1,8 @@
-<h1 align="center"><span style="color:#1a73e8;">Hello, I'm AFRICANO BYAMUGISHA</span></h1>
-<h3 align="center"><span style="color:#8e24aa;">Full Stack Data Analyst | Visualization Geek | Statistical Programmer | R / R Shiny Developer | Passionate about Data Science</span></h3>
-<h1 align="center">
+<h3 align="center"><span style="color:#1a73e8;">Hello, I'm AFRICANO BYAMUGISHA</span></h3>
+<p align="center"><span style="color:#8e24aa;">Full Stack Data Analyst | Visualization Geek | Statistical Programmer | R / R Shiny Developer | Passionate about Data Science</span></p>
+<h3 align="center">
   <a href="https://africanobyamugisha.github.io/" target="_blank"><strong>Visit My Portifolio Website</strong></a>
-</h1>
+</h3>
 
 ### About Me
 
@@ -12,4 +12,4 @@
 
 ### Get in Touch
 
-📫 Contact me via <a href="https://www.linkedin.com/in/africanobyamugisha/" style="color:#1a73e8;">LinkedIn</a> | <a href="https://twitter.com/africano1012" style="color:#1a73e8;">Twitter</a>
+📫 Lets Connect <a href="https://www.linkedin.com/in/africanobyamugisha/" style="color:#1a73e8;">LinkedIn</a> | <a href="https://twitter.com/africano1012" style="color:#1a73e8;">Twitter</a>
