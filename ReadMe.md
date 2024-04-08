@@ -6,7 +6,7 @@
 
 ### About Me
 
-🌱 Currently expanding knowledge in <span style="color:#0d47a1;">Advanced Data Science, Computer Science, JavaScript, Python</span>
+🌱 Currently expanding knowledge in <span style="color:#0d47a1;">Advanced Data Science, Computer Science, Advanced Python</span>
 
 🤝 A Versatile Team Player and Leader: Comfortable working independently and always striving to Optimize Data Processes, Automate Analysis, and Deliver Interactive Reporting
 
