@@ -1,7 +1,7 @@
 <h3 align="center"><span style="color:#1a73e8;">Hello, I'm AFRICANO BYAMUGISHA</span></h3>
 <p align="center"><span style="color:#8e24aa;">💻Data Analytics & Strategy | DataOps | MEL | MIS | Research Analysis | Passionate about Data Science, & data processes optimisation</span></p>
 <h3 align="center">
-  <a href="https://africanobyamugisha.netlify.app/" target="_blank"><strong>Visit My  Website</strong></a>
+  <a href="https://africanobyamugisha.dev/" target="_blank"><strong>Visit My  Website</strong></a>
 </h3>
 
 ### About Me
