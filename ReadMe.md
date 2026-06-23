@@ -1,10 +1,15 @@
-<h3 align="center"><span style="color:#1a73e8;">Hello, I'm AFRICANO BYAMUGISHA</span></h3>
-<p align="center"><span style="color:#8e24aa;">💻Data Analytics & Strategy | DataOps | MEL | MIS | Research Analysis | Passionate about Data Science, & data processes optimisation</span></p>
+<h3 align="center">Hello, I'm AFRICANO BYAMUGISHA 👋</h3>
+
+<p align="center">PhD. CS (Candidate)&nbsp;|&nbsp;MSc. CS&nbsp;|&nbsp;B.Stat&nbsp;|&nbsp;BIDA®&nbsp;|&nbsp;FMVA®</p>
+
+<p align="center">💻 Data &amp; Tech Strategy, Ops &amp; Analytics | MEL | MIS | Market Research<br/>Passionate about data science and the optimisation of data processes</p>
 
 ### About Me
 
-🤝 A Versatile Team Player and Leader: Comfortable working independently and always striving to Optimize Data Processes, Automate Analysis, and Deliver Interactive Reporting
+🤝 A versatile team player and leader — comfortable working independently, and always striving to optimise data processes, automate analysis, and deliver interactive reporting.
+
+🎓 PhD candidate in Computer Science at Makerere University; MSc in Computer Science (Data Science &amp; AI) and BSc in Statistics, also from Makerere.
 
 ### Get in Touch
 
-📫 Lets Connect <a href="https://www.linkedin.com/in/africanobyamugisha/" style="color:#1a73e8;">LinkedIn</a> | <a href="https://twitter.com/africano1012" style="color:#1a73e8;">Twitter</a>
+📫 Let's connect — [LinkedIn](https://www.linkedin.com/in/africanobyamugisha/) · [X (Twitter)](https://twitter.com/africano1012) · [gestlatthinklab.com](https://gestlatthinklab.com/)
